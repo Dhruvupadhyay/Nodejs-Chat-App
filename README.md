@@ -1,4 +1,4 @@
 # Nodejs-Chat
-Hey! to run this web simple go to this project directory and then server and then run server.js
+Hey! to run this web app just go to this project directory/server and then run server.js
 /Server server.js
 it will run on localhost:3000
